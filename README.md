@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivrina</h1>
+<h1 align="center">Hi 🌸, I'm Ivrina</h1>
 <h4 align="center">Bienvenue sur ma page ! </h4>
 <h6 align="center">Data analyste en apprentissage constant 📊, prête à explorer de nouveaux défis et à collaborer sur des projets innovants.</h6>
 
