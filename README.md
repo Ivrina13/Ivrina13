@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ivrina</h1>
+<h4 align="center">Bienvenue sur ma page ! </h4>
+<h6 align="center">Data analyste en apprentissage constant 📊, prête à explorer de nouveaux défis et à collaborer sur des projets innovants.</h6>
 
-<!--
-**Ivrina13/Ivrina13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Langages
+- 🐍 Python
+- 📝 SQL
+- 🗄️ MySQL
+- 🗃️ PostgreSQL
+  
 
-Here are some ideas to get you started:
+## ML / Outils
+- 🗃️ Dataiku
+- 📝 Minitab
+- 🖌️Power BI
+  
+## Bases de données
+- 📊 NumPy
+- 📈 Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Visualisation
+- 📊 Power BI
+- 📈 Tableau
+- 📉 Matplotlib
+- 📊 Seaborn
+
+## Design
+- 🖌️ Adobe Photoshop
+- 🎨 Canva
+
+## Éditeurs
+- 📓 Jupyter Notebook
+- 🌐 Google Colab
+
+## Outils bureautiques
+- 💼 Microsoft Office
+- 🖥️ Libre Office
+- 📄 Google Docs
+- 📊 Google Sheets
+- 📈 Google Slides
+- 📧 Microsoft Outlook
+
+## Systèmes d'exploitation
+- 🐧 Linux (En apprentissage)
+- 💻 Windows
+
+
+## Détails
+- 🎓 Mémoire de recherche en Master MSc Data analytics & Manager
+ marketing :  
+Analyse prédictive de la société Vélo' à Lyon, portant sur la disponibilité des vélos et l'aménagement urbain pour 2030.
+(Avec une note de 18,75/20 🤫 )
+- 🌱 J'apprends actuellement : 🧘‍♀️
+- 🤔 Je cherche un emploi en Data / Business Analytics 
+- 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/ivrina-nivarosa-2150b21a3/)
