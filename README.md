@@ -30,7 +30,7 @@
 
 ## Éditeurs
 - 📓 Jupyter Notebook
-- 🌐 Google Colab
+- 🌐 Google Cloud Platform
 
 ## Outils bureautiques
 - 💼 Microsoft Office
