@@ -48,7 +48,7 @@
 ## Détails
 - 🎓 Mémoire de recherche en Master MSc Data analytics & Manager
  marketing :  
-Analyse prédictive de la société Vélo' à Lyon, portant sur la disponibilité des vélos et l'aménagement urbain pour 2030.
+Analyse prédictive de la société Vélo' à Lyon, portant sur la disponibilité des vélos et l'aménagement urbain pour 2030.  
 (Avec une note de 18,75/20 🤫 )
 - 🌱 J'apprends actuellement : 🧘‍♀️
 - 🤔 Je cherche un emploi en Data / Business Analytics 
