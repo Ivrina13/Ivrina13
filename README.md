@@ -44,11 +44,14 @@
 - 🐧 Linux (En apprentissage)
 - 💻 Windows
 
+## Certifications 
+![image](https://github.com/user-attachments/assets/9fb394af-60bd-4dcf-b985-d0a73cd94036)
+
 
 ## Détails
 - 🎓 Mémoire de recherche en Master MSc Data analytics & Manager
  marketing :  
-Analyse prédictive de la société Vélo' à Lyon, portant sur la disponibilité des vélos et l'aménagement urbain pour 2030.  
+Analyse prédictive de la société Vélo'v à Lyon, portant sur la disponibilité des vélos et l'aménagement urbain pour 2030.  
 (Avec une note de 18,75/20 🤫 )
 - 🌱 J'apprends actuellement : 🧘‍♀️
 - 🤔 Je cherche un emploi en Data / Business Analytics 
