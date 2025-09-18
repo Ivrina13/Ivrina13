@@ -54,5 +54,5 @@
 Analyse prédictive de la société Vélo'v à Lyon, portant sur la disponibilité des vélos et l'aménagement urbain pour 2030.  
 (Avec une note de 18,75/20 🤫 )
 - 🌱 J'apprends actuellement : 🧘‍♀️
-- 🤔 Je cherche un emploi en Data / Business Analytics 
+- 🤔 Je cherche un emploi en Data Analytics / Machine Learning
 - 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/ivrina-nivarosa-2150b21a3/)
