@@ -98,8 +98,6 @@ Voici l’ensemble de tes compétences **fusionnées, réorganisées et harmonis
 
 ---
 
-Si tu veux, je peux maintenant te faire une **version ultra optimisée pour un CV Data Analyst**, ou une **version orientée Marketing Digital / Web Analytics** selon le poste que tu vises.
-
 
 ## Certifications 
 ![image](https://github.com/user-attachments/assets/9fb394af-60bd-4dcf-b985-d0a73cd94036)
