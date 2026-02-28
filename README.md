@@ -2,8 +2,6 @@
 <h4 align="center">Bienvenue sur ma page ! </h4>
 <h6 align="center">Data analyste en apprentissage constant 📊, prête à explorer de nouveaux défis et à collaborer sur des projets innovants.</h6>
 
-Voici l’ensemble de tes compétences **fusionnées, réorganisées et harmonisées** avec des catégories professionnelles claires (idéal pour un CV ou un profil LinkedIn) :
-
 ---
 
 ## 💻 Langages & Requêtage
