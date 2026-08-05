@@ -50,7 +50,7 @@
 
 ## Mes réalisations coup de cœur
 
-### 📊 Data Automation & Monitoring System (https://github.com/Ivrina13/Data_Automation)
+### 📊 [Data Automation & Monitoring System](https://github.com/Ivrina13/Data_Automation)
 Pipeline end-to-end (Python + BigQuery + Streamlit) orchestré via GitHub Actions avec alertes e-mail automatiques basées sur des seuils KPI configurables.  
 `Python` `BigQuery` `GitHub Actions` `Streamlit`
 
