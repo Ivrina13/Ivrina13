@@ -1,9 +1,8 @@
 <h1 align="center">Hi 🌸, I'm Ivrina</h1>
 <h4 align="center">Bienvenue sur ma page ! </h4>
-<h4 align="center">### **Data Analyst Full Stack / Analytics Engineer**
+<h4 align="center">Data Analyst Full Stack / Analytics Engineer
 
-*Transformez vos données brutes en un assistant de poche.*
-Je bâtis des architectures décisionnelles fluides, de l'automatisation du traitement à la création de dashboards interactifs et de systèmes d'alerte en temps réel. Que ce soit pour accompagner des TPE/PME ou intégrer une équipe Data, je conçois des systèmes d'analyse fiables et automatisés.
+<h2 align="center">Transformez vos données brutes en un assistant de poche.Je bâtis des architectures décisionnelles fluides, de l'automatisation du traitement à la création de dashboards interactifs et de systèmes d'alerte en temps réel. Que ce soit pour accompagner des TPE/PME ou intégrer une équipe Data, je conçois des systèmes d'analyse fiables et automatisés.
 ---
 
 ![Disponible](https://img.shields.io/badge/NEW-Disponible_CDI%2FCDD_ou_Freelance-FF69B4?style=for-the-badge)
@@ -11,16 +10,6 @@ Je bâtis des architectures décisionnelles fluides, de l'automatisation du trai
 ![International](https://img.shields.io/badge/Exp%C3%A9rience-Vietnam_%26_Londres-FF69B4?style=for-the-badge)
 
 ---
-
-<!-- Cartes graphiques style vn7 (Thème beige/vert) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivrina13&theme=solarized_light" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivrina13&theme=solarized_light" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ivrina13&theme=solarized_light" width="48%" />
-
-</div>
 
 ---
 
@@ -72,15 +61,15 @@ Ingestion automatisée des flux ventes/stocks (Airbyte) vers BigQuery/Snowflake 
 
 ---
 
-## 📬 Contact & Links
+## Certifications 
+![image](https://github.com/user-attachments/assets/9fb394af-60bd-4dcf-b985-d0a73cd94036)
+
+
+## Contact & Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivrina-n/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivrinanivarosa@gmail.com)
 
 
-
-
-## Certifications 
-![image](https://github.com/user-attachments/assets/9fb394af-60bd-4dcf-b985-d0a73cd94036)
 
 
