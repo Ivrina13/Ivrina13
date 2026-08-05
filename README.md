@@ -4,108 +4,90 @@
 
 ---
 
-## 💻 Langages & Requêtage
+<div align="center">
 
-* 🐍 Python (Pandas, NumPy, Matplotlib)
-* 📝 SQL
+# Hello, Je suis Ivrina Nivarosa 👋
 
----
+![Disponible](https://img.shields.io/badge/NEW-Disponible_CDI%2FCDD_ou_Freelance-8A2BE2?style=for-the-badge)
+![Master](https://img.shields.io/badge/Master-Data_Analytics-black?style=for-the-badge)
+![International](https://img.shields.io/badge/Exp%C3%A9rience-Vietnam_%26_Londres-blueviolet?style=for-the-badge)
 
-## 🗄️ Bases de données & Data Warehouse
+### **Data Analyst Full Stack / Analytics Engineer**
 
-* MySQL
-* PostgreSQL
-* BigQuery
-
----
-
-## 📊 Data Analysis & Business Intelligence
-
-* Power BI
-* Tableau Desktop
-* Looker Studio
-* Excel (Power Query)
-* Minitab
+*Transformez vos données brutes en un assistant de poche.*  
+Je bâtis des architectures décisionnelles fluides, de l'automatisation du traitement à la création de dashboards interactifs et de systèmes d'alerte en temps réel. Que ce soit pour accompagner des TPE/PME ou intégrer une équipe Data, je conçois des systèmes d'analyse fiables et automatisés.
 
 ---
 
-## 📈 Visualisation de données
+<!-- Cartes graphiques style vn7 (Thème beige/vert) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivrina13&theme=solarized_light" width="100%" />
 
-* Matplotlib
-* Seaborn
-* Pandas
-* NumPy
+<br/>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivrina13&theme=solarized_light" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ivrina13&theme=solarized_light" width="48%" />
 
-## 🌐 Web Analytics
-
-* Google Analytics 4 (GA4)
-* Google Tag Manager
-* Google Search Console
+</div>
 
 ---
 
-## 🚀 SEO / SEA & Performance Marketing
+## ⚡ Le Comparatif : Pourquoi automatiser ?
 
-* Google Ads
-* Meta Ads Manager
-* A/B Testing
-* Analyse de funnel
-* Optimisation des KPIs
-
----
-
-## ☁️ Cloud & Outils Data
-
-* AWS
-* Dataiku
-* JIRA
-* Postman
+| Pilier | Avant (Process Manuel) | Après (Solution Automatisée) | Stack Technique |
+| :--- | :--- | :--- | :--- |
+| **Nettoyage** | Doublons, erreurs de saisie, fausses données | Nettoyage automatisé & harmonisation en arrière-plan | **dbt, SQL, Python (Pandas)** |
+| **Visibilité** | Dashboards passifs délaissés | L'information vient à vous via des notifications directes | **Streamlit, Looker Studio, Power BI** |
+| **Gain de temps** | Croisement manuel chronophage | Lecture immédiate des priorités métiers | **Airflow, GitHub Actions** |
+| **Réactivité** | Constat des pertes en fin de mois | Détection d'anomalies & alertes proactives | **Python (Alerting), BigQuery** |
+| **Automatisation** | Recherche d'informations à la main | L'infrastructure surveille l'activité en continu | **Airbyte, Docker, Snowflake** |
 
 ---
 
-## 🎨 Design & Création
+## 🛠️ Technical Stack
 
-* Adobe Photoshop
-* Canva
-* Wordpress
-
----
-
-## 🖥️ Environnements & Outils
-
-* Jupyter Notebook
-* Google Cloud Platform
-* Microsoft Office
-* Libre Office
-* Google Docs / Sheets / Slides
-* Microsoft Outlook
-* Linux (en apprentissage)
-* Windows
+| Domaine | Technologies & Outils |
+| :--- | :--- |
+| **Transformation & SQL** | SQL, dbt, Python (Pandas) |
+| **Cloud & Data Warehouses** | Google BigQuery, Snowflake, OVH Cloud |
+| **Automation & Orchestration** | GitHub Actions, Airflow, Airbyte |
+| **Dashboards & Viz** | Looker Studio, Power BI, Tableau, Streamlit, Excel |
+| **DevOps & Infra** | Docker, Git, GitHub, Alteryx, Dataiku |
 
 ---
 
-## 🤝 Soft Skills
+## 🚀 Featured Projects
 
-* Esprit analytique
-* Rigueur
-* Autonomie
-* Vulgarisation des données
-* Travail en équipe
+### 📊 Data Automation & Monitoring System
+Pipeline end-to-end (Python + BigQuery + Streamlit) orchestré via GitHub Actions avec alertes e-mail automatiques basées sur des seuils KPI configurables.  
+`Python` `BigQuery` `GitHub Actions` `Streamlit`
+
+### 🛒 Supply Chain & Stock Monitoring — La Corbeille à Fruit
+Ingestion automatisée des flux ventes/stocks (Airbyte) vers BigQuery/Snowflake avec modèles dbt et dashboards Looker Studio.  
+*Gain de 5h/semaine et réduction de 15% des ruptures de stock.*  
+`dbt` `SQL` `Airflow` `Looker Studio` `BigQuery`
 
 ---
+
+## 📊 Core Experience
+
+| Période | Rôle | Entreprise / Projet | Stack |
+| :---: | :--- | :--- | :--- |
+| **10/2024 – 12/2025** | Analytics Engineer | La Corbeille à Fruit | dbt · Airflow · BigQuery · Looker Studio |
+| **07/2024 – 09/2024** | Analytics Engineer | OESON | Python · Streamlit · BigQuery · Tableau |
+| **04/2024 – 06/2024** | Data Analyst | WasteMarketPlace (Vinci) | Postman · CRM · Data Cleaning |
+| **03/2023 – 08/2023** | Data Analyst | NCC PLUS (Vietnam) | Reporting Automation · RGPD |
+
+---
+
+## 📬 Contact & Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivrinanivarosa@gmail.com)
+
+
 
 
 ## Certifications 
 ![image](https://github.com/user-attachments/assets/9fb394af-60bd-4dcf-b985-d0a73cd94036)
 
 
-## Détails
-- 🎓 Mémoire de recherche en Master MSc Data analytics & Manager
- marketing :  
-Analyse prédictive de la société Vélo'v à Lyon, portant sur la disponibilité des vélos et l'aménagement urbain pour 2030.  
-(Avec une note de 18,75/20 🤫 )
-- 🌱 J'apprends actuellement : 🧘‍♀️
-- 🤔 À la recherche d’une nouvelle opportunité professionnelle : en Data Analytics / Web Analitycs
-- 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/ivrina-nivarosa-2150b21a3/)
