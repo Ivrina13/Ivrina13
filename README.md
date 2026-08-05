@@ -50,9 +50,10 @@
 
 ## Mes réalisations coup de cœur
 
-### 📊 Data Automation & Monitoring System
+### 📊 Data Automation & Monitoring System (https://github.com/Ivrina13/Data_Automation)
 Pipeline end-to-end (Python + BigQuery + Streamlit) orchestré via GitHub Actions avec alertes e-mail automatiques basées sur des seuils KPI configurables.  
 `Python` `BigQuery` `GitHub Actions` `Streamlit`
+
 
 ### 🛒 Supply Chain & Stock Monitoring (Démo & Code sur demande 🔒)
 Ingestion automatisée des flux ventes/stocks (Airbyte) vers BigQuery/Snowflake avec modèles dbt et dashboards Looker Studio.  
