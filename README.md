@@ -13,6 +13,9 @@ Je bâtis des architectures décisionnelles fluides, de l'automatisation du trai
 ![International](https://img.shields.io/badge/Exp%C3%A9rience-Vietnam_%26_Londres-FF69B4?style=for-the-badge)
 
 
+
+
+
 ## Ce qui me passionne : Optimiser & Automatiser les processus Data
 
 | Pilier | Avant (Process Manuel) | Après (Solution Automatisée) | Stack Technique |
