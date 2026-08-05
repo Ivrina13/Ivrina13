@@ -3,13 +3,11 @@
 <h6 align="center">Data analyste en apprentissage constant 📊, prête à explorer de nouveaux défis et à collaborer sur des projets innovants.</h6>
 
 ---
-<div align="center">
 
-# Hello, Je suis Ivrina Nivarosa 👋
 
-![Disponible](https://img.shields.io/badge/NEW-Disponible_CDI%2FCDD_ou_Freelance-8A2BE2?style=for-the-badge)
-![Master](https://img.shields.io/badge/Master-Data_Analytics-8A2BE2?style=for-the-badge)
-![International](https://img.shields.io/badge/Exp%C3%A9rience-Vietnam_%26_Londres-8A2BE2?style=for-the-badge)
+![Disponible](https://img.shields.io/badge/NEW-Disponible_CDI%2FCDD_ou_Freelance-FF69B4?style=for-the-badge)
+![Master](https://img.shields.io/badge/Master-Data_Analytics-FF69B4?style=for-the-badge)
+![International](https://img.shields.io/badge/Exp%C3%A9rience-Vietnam_%26_Londres-FF69B4?style=for-the-badge)
 
 ### **Data Analyst Full Stack / Analytics Engineer**
 
