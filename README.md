@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🌸, I'm Ivrina</h1>
 <h4 align="center">Bienvenue sur ma page ! </h4>
-<h4 align="center">Data Analyst Full Stack / Analytics Engineer
+<h3><b>Data Analyst Full Stack / Analytics Engineer</b></h3>
 
 <br/>
 
