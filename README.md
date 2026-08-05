@@ -2,7 +2,9 @@
 <h4 align="center">Bienvenue sur ma page ! </h4>
 <h4 align="center">Data Analyst Full Stack / Analytics Engineer
 
-<h2 align="center">Transformez vos données brutes en un assistant de poche.Je bâtis des architectures décisionnelles fluides, de l'automatisation du traitement à la création de dashboards interactifs et de systèmes d'alerte en temps réel. Que ce soit pour accompagner des TPE/PME ou intégrer une équipe Data, je conçois des systèmes d'analyse fiables et automatisés.
+<h3 align="center">*Transformez vos données brutes en un assistant de poche.*Je bâtis des architectures décisionnelles fluides, de l'automatisation du traitement à la création de dashboards interactifs et de systèmes d'alerte en temps réel. Que ce soit pour accompagner des TPE/PME ou intégrer une équipe Data, je conçois des systèmes d'analyse fiables et automatisés.
+
+  
 ---
 
 ![Disponible](https://img.shields.io/badge/NEW-Disponible_CDI%2FCDD_ou_Freelance-FF69B4?style=for-the-badge)
